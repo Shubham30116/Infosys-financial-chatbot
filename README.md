@@ -79,7 +79,7 @@ financial-chatbot/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/MauryaShubhamkumar/infosys-financial-chatbot.git
+git clone https://github.com/Shubham30116/infosys-financial-chatbot.git
 
 cd infosys-financial-chatbot
 ```
